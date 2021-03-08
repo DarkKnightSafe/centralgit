@@ -1,2 +1,3 @@
 print("This is a linux2 python file")
-pritn("Updation")
+print("Updation")
+print("Linux2 Update")
